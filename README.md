@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Indu (inu0ntech-ops) 👋
 
-<!--
-**inu0ntech-ops/inu0ntech-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Information & technology Student | Raipur, CG
+I love reading books & learning new things by clearing all  my confusions.
 
-Here are some ideas to get you started:
+🚀 What I'm learning:
+-  C++, Oracle SQL (115+ queries done)
+- Git & GitHub (just started!)
+- Next: HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goal: Get a developer / IT job before MSc ends in 2027
+
+📂 My Repos:
+- SQL practice coming soon
+- C++ Lab programs coming soon
+
+✨ Fun fact:A book lover who debugs logic like code - I don't stop until every confusion becomes a clear note. 
+
